@@ -35,6 +35,7 @@ Antes de executar o projeto, certifique-se de ter instalado:
 
 A primeira análise realizada foi a visualização da produção trimestral de ovos para consumo no Brasil de 2012 a 2024.
 
+![Serie_Temporal](https://github.com/user-attachments/assets/a45ca878-64ac-46af-a642-01a3c4404c6b)
 
 
 Essa série temporal mostra o crescimento contínuo da produção de ovos ao longo dos anos, com algumas flutuações sazonais. O aumento da produção pode estar relacionado à maior demanda por ovos devido a mudanças nos hábitos alimentares e ao crescimento populacional.
@@ -42,6 +43,7 @@ Essa série temporal mostra o crescimento contínuo da produção de ovos ao lon
 ### 2. Variação Percentual Trimestral da Produção
 Para entender a tendência de longo prazo, aplicamos uma regressão linear aos dados históricos, permitindo visualizar a direção geral do crescimento da produção de ovos.
 
+![Variacao_Percentual](https://github.com/user-attachments/assets/aafad65e-b104-45fd-a4c6-16aa8e7b5236)
 
 
 A linha vermelha representa a tendência de longo prazo, indicando um aumento constante na produção. Embora haja oscilações nos valores trimestrais, a tendência geral é de crescimento.
@@ -51,11 +53,12 @@ A linha vermelha representa a tendência de longo prazo, indicando um aumento co
 
 Analisamos também a variação percentual da produção de ovos entre os trimestres.
 
+![Regressao_Linear](https://github.com/user-attachments/assets/c05c5755-9d6b-468a-a2e1-b758a929bd09)
 
 
 Este gráfico destaca as oscilações na produção de ovos ao longo do tempo. Períodos com grandes variações podem indicar impactos sazonais, crises no setor ou mudanças na demanda e na oferta.
 
-##Conclusão
+### Conclusão
 
 A análise revela um crescimento constante na produção de ovos no Brasil, com flutuações trimestrais que podem estar ligadas a fatores sazonais ou econômicos. Com esses dados, é possível aprofundar a investigação sobre as causas das variações e prever tendências futuras, auxiliando na tomada de decisões para o setor avícola.
 
