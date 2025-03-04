@@ -22,7 +22,7 @@ Antes de executar o projeto, certifique-se de ter instalado:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/pedrovcgomes/producao-ovos.git
+   git clone https://github.com/pedrovcgomes//Producao-de-Ovos_SIDRA_API.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
