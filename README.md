@@ -28,7 +28,8 @@ Antes de executar o projeto, certifique-se de ter instalado:
    - Conectar ocm os dados do IBGE/Sidra.
    - Processar e limpar os dados.
    - Gerar gráficos para análise.
-
+3. Site para consulta de tabelas da API do IBGE:
+   - https://apisidra.ibge.gov.br/
 ## Exemplos de Gráficos
 
 ### 1. Produção de Ovos para Consumo no Brasil (2012-2024)
