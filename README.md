@@ -18,18 +18,6 @@ Antes de executar o projeto, certifique-se de ter instalado:
   pip install -r requirements.txt
   ```
 
-## Instalação
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/pedrovcgomes//Producao-de-Ovos_SIDRA_API.git
-   ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd producao-ovos
-   ```
-3. Instale as dependências conforme mencionado anteriormente.
-
 ## Como Usar
 
 1. Execute o script principal:
@@ -37,7 +25,7 @@ Antes de executar o projeto, certifique-se de ter instalado:
    python main.py
    ```
 2. O código irá:
-   - Baixar os dados do IBGE/Sidra.
+   - Conectar ocm os dados do IBGE/Sidra.
    - Processar e limpar os dados.
    - Gerar gráficos para análise.
 
